@@ -4,9 +4,9 @@ Priority: optional
 Maintainer: Jacob Adams <tookmund@gmail.com>
 Build-Depends: debhelper (>=9)
 Standards-Version: 3.9.8
-Homepage: <insert the upstream URL, if relevant>
-#Vcs-Git: git://anonscm.debian.org/collab-maint/setcolortemperature.git
-#Vcs-Browser: https://anonscm.debian.org/cgit/collab-maint/setcolortemperature.git
+Homepage: https://github.com/Tookmund/setcolortemperature 
+Vcs-Git: https://github.com/Tookmund/setcolortemperaturerature 
+Vcs-Browser: https://github.com/Tookmund/setcolortemperature 
 
 Package: setcolortemperature
 Architecture: any
