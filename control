@@ -12,6 +12,8 @@ Package: setcolortemperature
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
 Description: Set screen color temperature
+ Change the screen color temperature to reduce/increase the amount of blue
+ light on screen.
  sct sets the color temperature of the screen via xrandr like redshift
  Unlike redshift, it is only 80 lines of C, although it does not have automatic 
  temperature changing.
