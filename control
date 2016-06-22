@@ -1,5 +1,5 @@
 Source: setcolortemperature
-Section: unknown
+Section: x11
 Priority: optional
 Maintainer: Jacob Adams <tookmund@gmail.com>
 Build-Depends: debhelper (>=9)
