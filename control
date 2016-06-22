@@ -4,12 +4,14 @@ Priority: optional
 Maintainer: Jacob Adams <tookmund@gmail.com>
 Build-Depends: debhelper (>=9)
 Standards-Version: 3.9.8
-Homepage: https://github.com/Tookmund/setcolortemperature 
-Vcs-Git: https://github.com/Tookmund/setcolortemperaturerature 
-Vcs-Browser: https://github.com/Tookmund/setcolortemperature 
+Homepage: https://github.com/Tookmund/setcolortemperature
+Vcs-Git: https://github.com/Tookmund/setcolortemperaturerature
+Vcs-Browser: https://github.com/Tookmund/setcolortemperature
 
 Package: setcolortemperature
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: <insert up to 60 chars description>
- <insert long description, indented with spaces>
+Depends: ${misc:Depends}, ${shlibs:Depends}
+Description: Set screen color temperature
+ sct sets the color temperature of the screen via xrandr like redshift
+ Unlike redshift, it is only 80 lines of C, although it does not have automatic 
+ temperature changing.
