@@ -1,5 +1,5 @@
 setcolortemperature (1.1-1) unstable; urgency=medium
 
-  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+  * Initial release (Closes: #828028)
 
  -- Jacob Adams <tookmund@gmail.com>  Sat, 04 Jun 2016 22:00:43 -0400
