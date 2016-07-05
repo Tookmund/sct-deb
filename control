@@ -5,8 +5,8 @@ Maintainer: Jacob Adams <tookmund@gmail.com>
 Build-Depends: debhelper (>=9)
 Standards-Version: 3.9.8
 Homepage: https://github.com/Tookmund/setcolortemperature
-Vcs-Git: https://github.com/Tookmund/setcolortemperaturerature
-Vcs-Browser: https://github.com/Tookmund/setcolortemperature
+Vcs-Git: https://github.com/Tookmund/sct-deb
+Vcs-Browser: https://github.com/Tookmund/sct-deb
 
 Package: setcolortemperature
 Architecture: any
