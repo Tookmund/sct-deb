@@ -16,6 +16,6 @@ Description: Set screen color temperature
  can be used to reduce or increase the amount of blue light produced
  by the screen.
  .
- sct sets the color temperature of the screen via xrandr like redshift
+ sct sets the color temperature of the screen via xrandr like redshift.
  Unlike redshift, it is only 80 lines of C and will not change the
  screen temperature automatically.
