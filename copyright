@@ -9,7 +9,7 @@ License: public-domain-sct
 
 Files: sct.c
 Copyright: whitepoints data copyright 2013 Ingo Thies <ithies@astro.uni-bonn.de>
-	   everything else copyright 2016 Ted Unangst <tedu@openbsd.org>
+	   remainder of C code copyright 2016 Ted Unangst <tedu@openbsd.org>
 License: public-domain-sct and public-domain-colorramp
 
 License: public-domain-sct
