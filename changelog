@@ -1,13 +1,5 @@
 setcolortemperature (1.2-1) unstable; urgency=medium
 
-  * New upstream version
-  * Check upstream tarball signature
-  * Install new changelog
-
- -- Jacob Adams <tookmund@gmail.com>  Thu, 07 Jul 2016 21:24:42 -0400
-
-setcolortemperature (1.1-1) unstable; urgency=medium
-
   * Initial release (Closes: #828028)
 
- -- Jacob Adams <tookmund@gmail.com>  Sat, 04 Jun 2016 22:00:43 -0400
+ -- Jacob Adams <tookmund@gmail.com>  Thu, 07 Jul 2016 22:48:49 -0400
