@@ -1,4 +1,4 @@
-setcolortemperature (1.2-1) unstable; urgency=medium
+setcolortemperature (1.3-1) unstable; urgency=medium
 
   * Initial release (Closes: #828028)
 
