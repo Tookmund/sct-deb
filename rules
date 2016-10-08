@@ -2,6 +2,7 @@
 
 # see FEATURE AREAS in dpkg-buildflags(1)
 export DEB_BUILD_MAINT_OPTIONS = hardening=+all
+export CPPFLAGS = -std=c99
 
 %:
 	dh $@ --parallel
